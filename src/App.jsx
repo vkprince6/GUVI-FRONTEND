@@ -3,7 +3,7 @@ import axios from "axios";
 import "./App.css"; // Ensure to modify or add card-related styles here
 
 const API_URL =
-  "https://97d29859-841c-4ac1-a8d4-1310ecbdc52d-00-2kki7uj0cyy36.pike.replit.dev/items";
+  "https://guvi-backend-az6s.onrender.com/items";
 
 function App() {
   const [items, setItems] = useState([]);
